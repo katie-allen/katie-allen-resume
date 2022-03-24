@@ -3,7 +3,7 @@ layout: cv
 title: Katie Allen
 ---
 # Katie Allen
-Data science professor at BYU-Idaho.
+Data science student at BYU-Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
