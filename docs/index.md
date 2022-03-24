@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Katie Allen
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Katie Allen
+Data science professor at BYU-Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
